@@ -1,0 +1,28 @@
+Name,Area_ac,Depth_ft,PorousIntervalThickness_ft,TotalThickness_ft
+Carrizo Sand and Wilcox Group,36695000.0,6000.0,900.0,4000.0
+Queen City Sand,13042000.0,6000.0,50.0,1100.0
+Sparta Sand,15000000.0,5400.0,100.0,500.0
+Yegua and Cockfield Formations,18600000.0,5200.0,400.0,700.0
+Frio and Vicksburg Formations,23653000.0,7000.0,900.0,2700.0
+Lower Miocene I,8432000.0,8000.0,600.0,1500.0
+Lower Miocene II,9924000.0,8000.0,550.0,1600.0
+Middle Miocene,3619000.0,8000.0,480.0,3200.0
+Upper Miocene,1933000.0,8000.0,1500.0,5400.0
+Tertiary Slope and Basin Floor (NQ),,,,
+Norphlet Formation,30687000.0,12000.0,200.0,300.0
+Norphlet Formation Deep,44198000.0,15000.0,100.0,200.0
+Smackover Formation,28617000.0,9000.0,100.0,200.0
+Smackover Formation Deep,61773000.0,15000.0,50.0,100.0
+Haynesville Formation,14166000.0,8850.0,190.0,550.0
+Haynesville Formation Deep,8771000.0,15800.0,180.0,600.0
+Sligo and Hosston Formations and Cotton Valley Group,52369000.0,8000.0,2400.0,3750.0
+Sligo and Hosston Formations and Cotton Valley Group Deep,20969000.0,16750.0,1000.0,5000.0
+Knowles and Winn Limestones and Calvin Sandstone (NQ),,,,
+Rodessa Formation and James Limestone,34774000.0,6500.0,40.0,600.0
+Rodessa Formation and James Limestone Deep,8626000.0,14000.0,40.0,700.0
+Fredericksburg Group and Rusk Formation,16600000.0,6000.0,150.0,1700.0
+"Edwards, Glen Rose, and James Limestones",3500000.0,7500.0,65.0,3000.0
+"Washita and Fredericksburg Groups, Rusk Formation, and James Limestone",24100000.0,7000.0,60.0,700.0
+"Washita and Fredericksburg Groups, Rusk Formation, and James Limestone Deep",4110000.0,14500.0,100.0,1000.0
+Tuscaloosa and Woodbine Formations,82823000.0,5165.0,150.0,600.0
+"Navarro, Taylor, and Austin Groups",45262000.0,5250.0,100.0,1600.0
