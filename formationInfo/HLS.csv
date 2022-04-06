@@ -1,0 +1,13 @@
+Name,Area_ac,Depth_ft,PorousIntervalThickness_ft,TotalThickness_ft
+Paleozoic Composite,2219000.0,6000.0,180.0,600.0
+Paleozoic Composite Deep,388000.0,20000.0,210.0,700.0
+Muddy Sandstone and Cloverly Formation,1168000.0,6000.0,80.0,230.0
+Muddy Sandstone and Cloverly Formation Deep,322000.0,19000.0,80.0,230.0
+Frontier Sandstone,1015000.0,7000.0,45.0,700.0
+Frontier Sandstone Deep,273000.0,22000.0,45.0,715.0
+Shannon Sandstone Member,492000.0,7000.0,160.0,800.0
+Shannon Sandstone Member Deep,193000.0,22000.0,160.0,800.0
+Mesaverde Formation,326000.0,5500.0,1000.0,4700.0
+Mesaverde Formation Deep,89000.0,19000.0,1120.0,4500.0
+Dad Member,187000.0,5500.0,275.0,520.0
+Dad Member Deep,61000.0,17000.0,250.0,530.0
